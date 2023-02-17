@@ -11,6 +11,7 @@ Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfımın ö�
 - Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 - Projeyi 4 katman (EL,DAL,BLL,UI) olarak yazdık.
 - UI katmanı için Travel isimli hazır bir tema kullandık.
+- Uçak biletini alırken gelen arayüzde JQUERY ile Tarih alanı bugünden başlayacak şekilde kısıtlandı. Müşteriler geçmiş bir tarihe bilet alamazlar.
 
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
