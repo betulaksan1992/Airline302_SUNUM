@@ -19,4 +19,4 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 <img width="960" alt="01" src="https://user-images.githubusercontent.com/94163797/219586603-20633e6b-4495-4268-9e78-3ee4f3195e7b.png">
 <img width="959" alt="02" src="https://user-images.githubusercontent.com/94163797/219597158-656d5a20-8f35-475c-b04b-a8d7cebd107f.png">
 <img width="953" alt="03" src="https://user-images.githubusercontent.com/94163797/219598643-7bd2b6ff-62ae-4261-a40b-448f457cd5fd.png">
-![image](https://user-images.githubusercontent.com/94163797/219598822-e10d6543-0bed-4dd9-a328-4d931b1ff472.png)
+<img width="953" alt="04" src="https://user-images.githubusercontent.com/94163797/219598822-e10d6543-0bed-4dd9-a328-4d931b1ff472.png">
